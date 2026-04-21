@@ -1,0 +1,4 @@
+A decentralized application (DApp) designed for secure medical record management. The system ensures that no single authority has control over user data, allowing patients, doctors, and health departments to interact transparently and securely
+
+we need to :
+we have create a a server AT-BT-PRE to crypt a cid of EHR of patient and we he work but the doctor he is steel not see the record when we shar it we need to re fix the server to crypt a key of AES-256 not a cid and we need to share a crypt a record and we need to fix too a doctor sid to make hem see the record after dycryt a record with attribute
